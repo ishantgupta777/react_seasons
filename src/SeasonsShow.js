@@ -34,8 +34,5 @@ const seasonsshow = (props)=>{
     )
 }
 
-seasonsshow.defaultProps = {
-    message : 'loading...'
-}
 
 export default seasonsshow
